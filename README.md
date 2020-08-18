@@ -27,7 +27,6 @@ sending to solace/twitter/live
 ...
 ```
 
-
 ## Configuration
 
 Configure it via the [tw2sol.yml](./tw2sol.yml) configuration file here in the project directory. 
