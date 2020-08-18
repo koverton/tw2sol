@@ -1,0 +1,22 @@
+{
+  "name": "tw2sol",
+  "version": "1.0.0",
+  "description": "Twitter consumer bridges to Solace",
+  "main": "tw2sol.js",
+  "scripts": {
+    "test": "node tw2sol.js"
+  },
+  "keywords": [
+    "solace",
+    "twitter",
+    "streaming"
+  ],
+  "author": "kov",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "js-yaml": "^3.14.0",
+    "solclientjs": "^10.5.1",
+    "twitter-stream-api": "^0.5.2"
+  }
+}

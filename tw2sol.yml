@@ -1,0 +1,13 @@
+twitter-stream-api:
+  keys:
+    consumer_key: __YOURE_CONSUMER_KEY__
+    consumer_secret: __YOURE_CONSUMER_SECRET__
+    token: __YOURE_TOKEN__
+    token_secret: __YOURE_TOKEN_SECRET__
+ 
+solclientjs:
+  host: ws://<YOURHOST>:<YOUR-WEBSOCKET-PORT>
+  vpn: __YOURE_SOLACE_VPN_OR_SOLCLOUD_SVC__
+  user: __YOURE_SESSION_USERNAME__
+  password: __YOUR_SESSION_PASSWORD__
+  sendto: solace/topic/to/publish/to
